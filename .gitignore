@@ -1,0 +1,6 @@
+# Ignore backup and editor files.
+*~
+*#*
+*.swp
+environments/**
+rules/
